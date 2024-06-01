@@ -11,7 +11,7 @@ const galleryItems2 = galleryContainer2.querySelectorAll('.gallery-item');
 class Carousel {
 
     constructor(container, items, controlsContainer, controls) {
-        // this.carouselContainer = container;
+        this.carouselContainer = container;
         this.carouselControlsContainer = controlsContainer;
         this.carouselControls = controls;
         this.carouselArray = [...items];
@@ -78,7 +78,6 @@ class Carousel {
         }
 
     }
-
 
     setControls() {
         this.carouselControls.forEach(control => {
