@@ -29,5 +29,6 @@ The gallery section showcases images from various concerts and activities organi
 
 <br/><br/><br/>
 
-![Screenshot](https://github.com/trifunovskak/zdruzenie-na-muzichari/assets/144165040/30a3c1ae-6d75-4765-b434-d81e13265335)
+![screencapture-splendorous-sable-c8ba0c-netlify-app-2024-06-02-00_03_23](https://github.com/trifunovskak/zdruzenie-na-muzichari/assets/144165040/723f6ffa-83f0-44be-8342-646c4c2090d4)
+
 
